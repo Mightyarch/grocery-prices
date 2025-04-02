@@ -1,0 +1,202 @@
+{
+  "tomato": {
+    "value": {
+      "price": 0.3608,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711336979
+  },
+  "onion": {
+    "value": {
+      "price": 0.242,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711337292
+  },
+  "rice": {
+    "value": {
+      "price": 0.0032,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711337475
+  },
+  "chicken": {
+    "value": {
+      "price": 0.0179,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711337476
+  },
+  "garlic": {
+    "value": {
+      "price": 0.0667,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711702958
+  },
+  "chicken breast": {
+    "value": {
+      "price": 2.0039,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711702963
+  },
+  "ginger": {
+    "value": {
+      "price": 0.0387,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711702966
+  },
+  "salt": {
+    "value": {
+      "price": 0,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711702966
+  },
+  "sesame oil": {
+    "value": {
+      "price": 0.0241,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711702967
+  },
+  "black pepper": {
+    "value": {
+      "price": 0.03,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711702970
+  },
+  "bell pepper": {
+    "value": {
+      "price": 0.5976,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711702970
+  },
+  "rice vinegar": {
+    "value": {
+      "price": 0.0040999999999999995,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711703017
+  },
+  "spring onion": {
+    "value": {
+      "price": 0.07919999999999999,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711703018
+  },
+  "sesame seeds": {
+    "value": {
+      "price": 0.038599999999999995,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711703021
+  },
+  "lemon": {
+    "value": {
+      "price": 0.5,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711703022
+  },
+  "honey": {
+    "value": {
+      "price": 0.012199999999999999,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711703187
+  },
+  "garlic powder": {
+    "value": {
+      "price": 0.0304,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711703258
+  },
+  "vegetable oil": {
+    "value": {
+      "price": 0.004,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711703260
+  },
+  "soy sauce": {
+    "value": {
+      "price": 0.0068000000000000005,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743711703406
+  },
+  "olive oil": {
+    "value": {
+      "price": 0.011899999999999999,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743712232868
+  },
+  "coconut milk": {
+    "value": {
+      "price": 0.0060999999999999995,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743712232989
+  },
+  "asparagus": {
+    "value": {
+      "price": 0.1419,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743712232992
+  },
+  "quinoa": {
+    "value": {
+      "price": 0.0089,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743712232994
+  },
+  "cinnamon": {
+    "value": {
+      "price": 0.1425,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743712232995
+  },
+  "kale": {
+    "value": {
+      "price": 0.048600000000000004,
+      "unit": "piece",
+      "source": "spoonacular"
+    },
+    "expiry": 1743712232996
+  }
+}

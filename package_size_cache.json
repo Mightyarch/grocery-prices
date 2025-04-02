@@ -1,0 +1,51 @@
+{
+  "asparagus": {
+    "value": {
+      "size": "250g",
+      "price": 3.49
+    },
+    "expiry": 1746217828287
+  },
+  "kale": {
+    "value": {
+      "size": "250g",
+      "price": 3.49
+    },
+    "expiry": 1746217829156
+  },
+  "coconut milk": {
+    "value": {
+      "size": "500ml",
+      "price": 3.99
+    },
+    "expiry": 1746217830094
+  },
+  "cinnamon": {
+    "value": {
+      "size": "250g",
+      "price": 3.49
+    },
+    "expiry": 1746217831088
+  },
+  "avocado": {
+    "value": {
+      "size": "250g",
+      "price": 3.49
+    },
+    "expiry": 1746217831412
+  },
+  "maple syrup": {
+    "value": {
+      "size": "250g",
+      "price": 3.49
+    },
+    "expiry": 1746217832232
+  },
+  "ground turkey": {
+    "value": {
+      "size": "250g",
+      "price": 3.49
+    },
+    "expiry": 1746217832515
+  }
+}
